@@ -1,0 +1,303 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>False judgments reprehended and a just reproof to Tho. Everndon, and his associates and fellow-travellers, for the false and rash judgment T.E. gave against G.K. and his faithful Friends and brethren, at the publick meeting at Philadelphia, the 27. of 10. mon. 1692. And also for their bringing with them their paquet of letters (Saul-like to Damascus) containing the false judgment of a faction of men, calling themselves the Yearly-Meeting at Tredaven in Maryland the 4 of 8. mon 92. And another false judgment contained in another letter from William Richardson, all which will return upon their own heads.</title>
+            <author>Keith, George, 1639?-1716.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1692</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 23 KB of XML-encoded text transcribed from 6 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A87656</idno>
+            <idno type="STC">Wing K164</idno>
+            <idno type="STC">ESTC W9991</idno>
+            <idno type="EEBO-CITATION">99897536</idno>
+            <idno type="PROQUEST">99897536</idno>
+            <idno type="VID">136311</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A87656)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 136311)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2501:14)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>False judgments reprehended and a just reproof to Tho. Everndon, and his associates and fellow-travellers, for the false and rash judgment T.E. gave against G.K. and his faithful Friends and brethren, at the publick meeting at Philadelphia, the 27. of 10. mon. 1692. And also for their bringing with them their paquet of letters (Saul-like to Damascus) containing the false judgment of a faction of men, calling themselves the Yearly-Meeting at Tredaven in Maryland the 4 of 8. mon 92. And another false judgment contained in another letter from William Richardson, all which will return upon their own heads.</title>
+                  <author>Keith, George, 1639?-1716.</author>
+                  <author>Budd, Thomas, 1648-1699.</author>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>printed by William Bradford,</publisher>
+                  <pubPlace>[Philadelphia :</pubPlace>
+                  <date>1692]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Signed on p. 8: George Keith, Thomas Budd.</note>
+                  <note>Imprint supplied by Evans.</note>
+                  <note>Signatures: A⁴.</note>
+                  <note>Reproduction of original in the John Carter Brown Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Everndon, Thomas --  Early works to 1800.</term>
+               <term>Society of Friends --  Doctrinal and controversial works --  Early works to 1800.</term>
+               <term>Society of Friends --  Pennsylvania --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-08</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-09</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-07</date>
+            <label>Leah Yurasek</label>Sampled and proofread</change>
+         <change>
+            <date>2010-07</date>
+            <label>Leah Yurasek</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:136311:1"/>
+            <pb n="1" facs="tcp:136311:1" rendition="simple:additions"/>
+            <head>
+               <hi>Falſe Judgments Reprehended:</hi> AND A Juſt Reproof to Tho. Everndon, And his Aſſociates and Fellow-Travellers, For the falſe and raſh Judgment T. E. gave againſt G. K. and his faithful Friends and Brethren, at the publick Meeting at <hi>Philadelphia,</hi> the 27. of 10. Mon. 1692. And alſo for their bringing with them their Paquet of Letters <hi>(Saul<g ref="char:punc">▪</g>
+               </hi> like to <hi>Damaſcus</hi>) containing the falſe Judgment of a Faction of men, calling themſelves the Yearly-Meeting at <hi>Tredaven</hi> in <hi>Maryland</hi> the 4 of 8. Mon. 92. And another falſe Judg<g ref="char:EOLhyphen"/>ment contained in another Letter from <hi>William Richardſon,</hi> All which will return upon their own heads.</head>
+            <p>IT is greatly worth the noticing, that theſe men who call them<g ref="char:EOLhyphen"/>ſelves the Yearly Meeting at <hi>Tredaven</hi> in <hi>Maryland.</hi> met the 4th of the 8 Mon. 1692. have moſt raſhly and unchriſtianly, con<g ref="char:EOLhyphen"/>trary to all Goſpel-Order, condemned G. K. and his Friends, a<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> ap<g ref="char:EOLhyphen"/>pears, by their Paper ſigned by <hi>Thomas Everndon, Rich. John, Richard Harriſon, John Pitt, W. Dixon, Ja. Ridley,</hi> and ſeveral others, without all hearing of him, or ſending any of their Brethren to enquire into the truth of things, or true cauſe and ground of the Seperation here, and ſuch other things as they lay to his charge.</p>
+            <p>And whereas they ſay in their Letter, <hi>That he accuſeth his Brethren and renders them to the World as a People not fit to hold Communion with; and that there are more damnable Hereſies and Errors cloaked amongſt the</hi> Quakers <hi>there</hi> (viz. in <hi>Pennſilvania) than in any</hi> Proteſtant <hi>Society in</hi> Chriſtendom.</p>
+            <p>
+               <pb n="2" facs="tcp:136311:2"/>
+               <hi>Anſw.</hi> Oh! the groſs Partiality and Injuſtice of theſe men! when was it that <hi>G. K.</hi> publiſhed this to the World, viz. <hi>That they cloaked more damnable Hereſies and Errors here, than in any</hi> Proteſtant <hi>Society in Chriſtendom?</hi> was it not in anſwer to the 28 falſe Judges, that had publiſhed in the face of the world their falſe Judgment againſt him, in which they publiſhed theſe words, and not <hi>G. Keith,</hi> for he ſpoke them in a private Meeting at a private houſe in <hi>Burlington,</hi> where about 20 men called Miniſters were met; and had they been wiſe they would not have ſo publickly accuſed <hi>G. K.</hi> for them in their ſaid Paper, which though they did not print, yet cauſed it to be read at Monthly &amp; Quarterly Meetings, and at other Meetings on firſt days and week days, where many that did not profeſs to be <hi>Quakers</hi> were preſent, whereby it was noiſed all about; and <hi>G. K.</hi> was publickly oppoſed and interrupted in his Teſtimony in moſt places, and when he prayed in Meetings, many kept on their Hats, and all becauſe of this Paper of falſe Judgment againſt him by the 28. and it is but a circum<g ref="char:EOLhyphen"/>ſtance whether a thing be printed or not, ſeeing they publiſhed it all over the Country, and ſent it to moſt parts in <hi>America</hi> where there is of the People called <hi>Quakers,</hi> before <hi>G. K.</hi> publiſhed it in print; ſo they were the Publiſhers of it, and not <hi>G. K.</hi> And this is ſufficient to diſcover their Partiality and Injuſtice in this particular, which is the principal thing they pretend to have againſt him.</p>
+            <p>Again, whereas they blame him for <hi>Seperating from Friends and Bre<g ref="char:EOLhyphen"/>thren:</hi> by this it plainly appeareth that they own ſuch to be their Bre<g ref="char:EOLhyphen"/>thren, who are guilty of denying and oppoſing <hi>Faith in the Man Chriſt without us,</hi> which theſe here have done. And for the Seperation which our Oppoſers firſt made, and were the cauſe of, we are well warranted by the holy Scripture, that ſaith, <hi>Come out from among them, and be ye ſeperate; Be ye not unequally yoked with <g ref="char:V">Ʋ</g>nbelievers; what fellowſhip hath a Believer with an Infidel?</hi> and ſuch indeed are all them who have not Faith in the <hi>Man Christ without them,</hi> as in <hi>Chriſt in them,</hi> as theſe our Oppoſers have not, who ſet up the <hi>Light within</hi> to be <hi>ſufficient without any thing elſe,</hi> as their Judgment againſt him plainly expreſſeth, ſo excluding the <hi>Man Christ Jeſus without us</hi> from having any part in our Salvation</p>
+            <p>Again, they tell <hi>G. K. That if any of them had been guilty of theſe things, he ought to have laboured their Recovery in love and in the Spirit of Meekneſs.</hi>
+            </p>
+            <p>
+               <pb n="3" facs="tcp:136311:2"/>
+               <hi>Anſw.</hi> And ſo he did for above a year, with much love and patience and met with great Contradiction, Hatred and reviling Language from them for his pains: and he did bear and ſuffer ſo long, that he could not with peace of Conſcience ſuffer it any longer, and brought the matter of Difference orderly from one Meeting to another, but there was no Remedy. And whereas they ſay, <hi>He ought to have ſtated the Difference and ſent it to</hi> London: He did write to <hi>G. Whitehead</hi> and Friends at <hi>London,</hi> and had their anſwer, approving his Doctrine, before he printed any thing, &amp; yet this prevailed nothing. But <hi>G. K.</hi> did not write to them as having any uncertainty or doubt in himſelf of the truth of the Doctrine aſſerted by him, nor was he free to ſubmit ſo great a matter of <hi>Faith</hi> and <hi>Conſcience,</hi> by way of <hi>Abſolute Submiſſion,</hi> to any man or number of men, as <hi>Whether Chriſt without us was to be be<g ref="char:EOLhyphen"/>lieved in, as well as Chriſt within us, as neceſſary to our Salvation?</hi> for things of that nature are not to be ſubmitted, by way of <hi>Abſolute Sub<g ref="char:EOLhyphen"/>miſſion</hi> to the beſt of men, it contradicteth our antient Principle, <hi>viz. That the Spirit in each particular is the Rule of Faith and Doctrine.</hi> But <hi>G. K.</hi> did never refuſe to appeal or ſubmit to the Spirit of Truth in any of his faithful Friends in <hi>Old-England</hi> or any where elſe, but prof<g ref="char:EOLhyphen"/>fered it, and was refuſed, not doubting their unity with him in this weighty matter, but becauſe it is ſo <hi>unqueſtionable a Truth</hi> among <hi>Chri<g ref="char:EOLhyphen"/>ſtians, That Chriſt without is as neceſſary to be believed in for our Salvation, as that God in Heaven is to be believed in;</hi> therefore he thought it not ne<g ref="char:EOLhyphen"/>ceſſary to concern his faithful Friends to ſeek their aſſiſtance to deter<g ref="char:EOLhyphen"/>mine that which all <hi>Chriſtendom</hi> grants in words, and none but the greateſt <hi>Apostates</hi> and <hi>Hereticks</hi> dare deny.</p>
+            <p>Next, let it be obſerved, that after <hi>Tho. Everndon</hi> and the reſt had given forth the ſaid falſe Judgment in <hi>Maryland, T. Everndon,</hi> accom<g ref="char:EOLhyphen"/>panied with <hi>Rich. Johns, Rich. Harriſon</hi> &amp; <hi>Humphry Hodges,</hi> comes to <hi>Philadelphia,</hi> and before they had been here 48 hours, out of the Mee<g ref="char:EOLhyphen"/>ting) on the <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>7 day of 10 mon. in a publick Meeting appointed at <hi>Phi<g ref="char:EOLhyphen"/>ladelphia,</hi> where was preſent about 500 People, <hi>T. Everndon</hi> ſaid, <hi>That having ſeen certain printed Books that came down to</hi> Maryland, <hi>wherein his Brethren were charged with denying the Man Christ Jeſus, &amp; Faith in him, and the Reſurrection of the dead; I ſaid</hi> (ſaid he) <hi>I would go up and ſee what the matter is among my Brethren, whether theſe things be ſo or not, that theſe Books come down among us, wherein they are charged with denying theſe things; and now ſince I am come I have made enquiry of the Parties ſo
+<pb n="4" facs="tcp:136311:3"/>
+charged, &amp; I find my Brethren ſound in the Faith concerning all theſe things, and therefore theſe are Lyes and Calumnies cast upon us, and I have this word of Comfort further to deliver to you, my Brethren, from the Lord, That the Judgments of the Lord will overtake them that have printed and publiſh<g ref="char:EOLhyphen"/>ed theſe things to the Diſhonour of God, and his Truth, &amp;c.</hi>
+            </p>
+            <p>Where <hi>Note first,</hi> That he ſaid, <hi>He came up to enquire whether theſe things were ſo or not,</hi> and yet near 3 Months before he came here to ſee whether theſe things were ſo or not, he and his Companions believed Reports againſt us in <hi>Maryland,</hi> and ſigned the ſaid Judgment againſt us. Now pray conſider whether <hi>T. E.</hi> and Companions were the Im<g ref="char:EOLhyphen"/>partial men they pretend to be to enquire and judge of this great Con<g ref="char:EOLhyphen"/>troverſie, when 1ct, before they came here they gave their Judgment againſt us upon bare Report: 2ly. When they came here, before they had time to make due enquiry (<hi>viz.</hi> in leſs then 48 hours) to ſay, <hi>That he found his Brethhen ſound in the Faith,</hi> and <hi>That theſe were Lyes and Calumnies cast upon them,</hi> was great raſhneſs: Firſt they condemned us, and then <hi>T. E.</hi> ſaid <hi>he came ſome hundreds of Miles to enquire whether theſe things</hi> (for which they had condemned us) <hi>were true, or not:</hi> Was ever greater Folly acted by men pretending to Reaſon, Conſcience and the higheſt Perfection in <hi>Chriſtianity?</hi> Our Souls pity them, and heartily deſire that they might ſee their Raſhneſs, and Repent.</p>
+            <p>But to demonſtrate that <hi>T. Everndon</hi> had but one ear to hear, or at <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> to give credit to one party in prejudice to the other, pray note theſe following Obſervations.</p>
+            <p>
+               <hi>Obſerv.</hi> 1ſt. That at the ſaid Meeting 27 of 10 mon. before <hi>T. E.</hi> bore his Teſtimony, <hi>John Wilsford</hi> declared a long time concerning the Faith of Chriſt, ſaying, <hi>He had the TR<g ref="char:V">Ʋ</g>E Fa<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>h of Christ, as he dyed, and roſe again, and aſcended, and was our Mediator in</hi>
+               <note n="*" place="margin">But <hi>J<gap reason="illegible" resp="#PDCC" extent="3 letters">
+                        <desc>•••</desc>
+                     </gap> Wilsford</hi> 
+                  <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>as not told us whe<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>er that heaven be <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> 
+                  <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>in or without, into which the Man Chriſt is go<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>; <hi>Rob. Young</hi> ſays 'tis with<g ref="char:EOLhyphen"/>in us.</note> 
+               <hi>Heaven, before he came among Friends, and even from his Childhood he had that True Faith, but yet that Faith did not purifie him, nor gather him to God, but he remained in the dark, and his Reli<g ref="char:EOLhyphen"/>gion was only an outſide Profeſſion,</hi> &amp;c.</p>
+            <p>
+               <hi>Obſerv.</hi> 2ly. That <hi>T. E.</hi> did not only hear <hi>J. W.</hi> ſpeak this, but he alſo heard <hi>G. K.</hi> reprove divers things in his Doctrine, and prove it to be falſe &amp; unſound, eſpecially that he ſaid, <hi>He had the true Faith of Chriſt as he dyed and roſe again, and yet that Faith did not purifie him,</hi> &amp;c. This, ſaid <hi>G. K.</hi> is unſound Doctrine to call that the true Faith of
+<pb n="5" facs="tcp:136311:3" rendition="simple:additions"/>
+Chriſt that doth not purifie nor gather to God, nor bring a man out of the dark, and to have no more of Religion than an outſide Profeſſion; this is not the <hi>true Faith,</hi> but a <hi>falſe Faith;</hi> for the <hi>true Faith purifieth the Heart, and gathers unto God, and brings him that hath it to know the Kirr<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>d and inward Life of Religion.</hi> If he had ſaid, <hi>he had not the true Faith of Christ crucified, &amp;c. but a dead literal and notional Faith of it,</hi> he might have ſaid true; but to ſay he had <hi>the true Faith, and yet that it did not purifie him,</hi> doth prove him to be yet ignorant of the <hi>true Faith,</hi> and that <hi>he is yet in the dark:</hi> There is a true and a falſe Faith both of Chriſt without &amp; of Chriſt within, the <hi>Falſe</hi> is only <hi>Literal, Hiſtorical</hi> and <hi>Notional,</hi> and many have no other but a <hi>bare literal, hiſtorical</hi> and <hi>notional Faith of Christ within,</hi> as others have of <hi>Chriſt without;</hi> they ſay, they believe that Chriſt is in them only becauſe they read it, and hear it preached, but this Faith is dead, and is not true, more than a dead Picture of a Man is a true Man; but the <hi>True Faith of Chriſt,</hi> both <hi>without</hi> and <hi>within</hi> is a <hi>living fruitful Faith,</hi> wrought in them who have it by the Power &amp; Spirit of Chriſt, accompanying the Preaching of it, and the Teſtimony of the holy Scriptures concerning the ſame.</p>
+            <p>
+               <hi>Obſerv.</hi> 3dly. That at the ſame Meeting <hi>F. E.</hi> heard <hi>John Hutchens</hi> groſly pervert that place of Scripture, 1 <hi>Theſ.</hi> 4.15. <hi>We which are alive and remain to the Coming of the Lord, ſhall be caught up to meet the Lord in the Air, &amp;c.</hi> which moſt evidently relates to his coming in his glorified Body without us at the great Day of Judgment, whereas <hi>J. <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>.</hi> appl<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ed it wholly to mens being caught up in the Spirit, groſly confounding Chriſt the Son, the Heir, with the Air, which he alſo heard <hi>G. K.</hi> 
+               <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> contradict and reprove.</p>
+            <p>
+               <hi>Obſer.</hi> 4ly. That the Printed Judgment concerning <hi>Will Stockdale,</hi> (which is a true Copy of the Original) ſaith, <hi>That it was proved by two Witneſſes that he ſaid G. K. preached two Chriſts,</hi> becauſe he preached Faith in Chriſt within &amp; without, is evidence ſufficient of his unſound<g ref="char:EOLhyphen"/>neſs, and yet he was all along allow'd to preach and pray in Meetings.</p>
+            <p>
+               <hi>Obſ.</hi> 5ly. That by their printed Judgment concerning <hi>T. Fit<gap reason="illegible" resp="#PDCC" extent="6 letters">
+                     <desc>••••••</desc>
+                  </gap>
+               </hi> its evident that they clear <hi>T. F.</hi> and condemn <hi>G. K.</hi> for ſaying, <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> 
+               <hi>Light is not ſufficient without <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> thing elſe</hi> (to wit, the Man Chriſt Jeſus, and what he did &amp; ſuffered for us on Earth, and what he is now, doing for us in Heaven, and which at the next Monthly Meeting, <hi>The L<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>o<gap reason="illegible" resp="#PDCC" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>
+               </hi> at the Month of the Meeting acknowledged, <hi>They knew G. K. meant the Man, Chriſt Jeſus, and what he did and ſuffered for us, and what he <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> now
+<pb n="6" facs="tcp:136311:4"/>
+a doing for us, to be that ſomething elſe;</hi> thereby denying the Man Chriſt Jeſus from having any part or ſhare in our Salvation.</p>
+            <p>
+               <hi>Obſer.</hi> 6ly. That both on the firſt day before in the publick Meeting, and in the evening before this Meeting <hi>G. K.</hi> gave <hi>T. E.</hi> and Compa<g ref="char:EOLhyphen"/>nions a faithful account how <hi>John Delavall</hi> had accuſed him of being <hi>guilty of Hereſie and Error in a Fundamental Doctrine,</hi> for aſſerting that <hi>the Light within is not ſufficient without ſome-what elſe:</hi> thereby excluding the Man Chriſt Jeſus without us.</p>
+            <p>Now after this, which T. E. could not but be ſenſible of, for him to ſay in ſuch a great Auditory, <hi>That he had made enquiry, and ſound his Brethren ſound in the Faith, and theſe things in our printed Books were Lyes and Calumnies,</hi> bewrayeth his great weakneſs in this, as Folly and Raſhneſs in his Signing a Paper of Judgment againſt us in <hi>Maryland</hi> upon bare Report. And therefore it is manifeſt that <hi>T. Everndon</hi> has been very imprudent in the management of this weighty Affair, thus to clear the guilty and condemn the Innocent, and that in the Name of the Lord. Oh! the righteous Iudge of the whole Earth, who knows the ſecrets of all hearts, will judge for theſe things.</p>
+            <p>And in private Conference that Evening aforeſaid, the principal thing for which <hi>T. E.</hi> blamed <hi>G. K.</hi> was, <hi>for making known to the World, the Errors of ſome called Preachers among the</hi> Quakers <hi>here,</hi> ſaying, <hi>he had made Friends ſtink, and become the Song of the Drunkards.</hi> But G. K. ſaid, he had not made then ſtink, but themſelves had done it, as when the Sun ſhines warm on a Dung-hill, the Dunghill is to be blamed for the ſtink, not the Sun. Alſo, G. K. did expoſtulate with T. E. and his Companions, Why they did lay open to the World the Adultry of <hi>T. T.</hi> once a great Preacher among them, whereby the <hi>Quakers</hi> generally there away became a ſtink and a Song of the Drunkards, and many on that very account left the <hi>Quakers</hi> Meetings; They replyed, <hi>His Wickedneſs reſted on his own head.</hi> To which G. K. ſaid, If Carnal A<gap reason="illegible" resp="#PDCC" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>try be not to be hid, no more is ſpiritual Adultry, as this is to d<gap reason="illegible" resp="#PDCC" extent="3 letters">
+                  <desc>•••</desc>
+               </gap> the Lord that bought us. So that their blaming G. K. for not ſending to Friends in other parts, or to <hi>London,</hi> is as idle as if we ſhould ſend to <hi>London</hi> to enquire wheth<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> Adultry be a ſin for which we ought to deny them who are guilty, as <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> to be ſeperated from and not fit to hold Communion with. And why ſhould G.K. &amp; his Friends any more delay their publiſhing to the world, (after endeavours uſed to reclaim them) a Teſtimony againſt ſome mens ſpiritual Adultery
+<pb n="7" facs="tcp:136311:4"/>
+here, which is their groſs Hereſie, in denying the Faith of Chriſt with<g ref="char:EOLhyphen"/>out us, as he <hi>dyed for our ſins, &amp;c.</hi> as neceſſary to our Salvation, any more than they in <hi>Maryland</hi> delayed to publiſh <hi>T. T</hi>'s carnal Adul<g ref="char:EOLhyphen"/>tery? Or why ſhould G. K. and his Friends call for the aſſiſtance of Friends in remote Parts, or at <hi>London,</hi> to condemn a Hereſie that is as manifeſt a ſin as Adultery is? And if Friends at <hi>London</hi> found them<g ref="char:EOLhyphen"/>ſelves concerned to give forth a Teſtimony in print againſt one that was ſaid to carry the Bible to the Exchange to burn it, ought not G. K. &amp; his Friends to be concerned to give forth a Teſtimony againſt them that <hi>deny Chriſt without us,</hi> not owning him to be concerned in our Sal<g ref="char:EOLhyphen"/>vation, but only the <hi>Light within us,</hi> ſeeing to deny Chriſt, of whom the Bible declareth, is more than to deny the <gap reason="illegible" resp="#PDCC" extent="4 letters">
+                  <desc>••••</desc>
+               </gap>e, that is a declara<g ref="char:EOLhyphen"/>tion of him.</p>
+            <p>And one of <hi>T. E</hi>'s Companions, <hi>viz. Richard Johns,</hi> charged G. K. for caſting the <hi>Errors of particular Perſons on the Body of Friends,</hi> which G.K. denyed, &amp; proffered to ſhow him that he cleared faithful Friends of it, &amp; did not charge theſe <hi>Errors</hi> and <hi>Hereſies</hi> upon all here nor elſe<g ref="char:EOLhyphen"/>where, nor yet upon any others that are not guilty, as we believe many are not, but only upon a Party or Faction of men that are no true <hi>Quakers,</hi> but degenerated from the true Principles and Practices of the <hi>Quakers.</hi> And in their Paper <hi>Richard Johns</hi> and the reſt give falſe Judgment in matter of Fact, <hi>viz. That we have rent and ſeperated from Friends;</hi> for theſe who have ſeperated from us, and we are ſeperated from them, are no true Friends and Brethren, becauſe holding Anti<g ref="char:EOLhyphen"/>chriſtian Doctrines; and we have not rent, nor are ſeperated from faithful Friends, as we have alwayes declared; ſee our firſt Book, cal<g ref="char:EOLhyphen"/>led, <hi>Some Cauſes of the late Seperation,</hi> p. 23. we ſay, <hi>We deſign not any Seperation from our faithful Brethren here or any where elſe in any part of the World, for we declare we are one with all our faithful Brethren in all parts of the World, both in Spirit, Doctrine &amp; Practice of true Chriſtianity; &amp; we faithfully believe, that our Faith in all things doth well agree to all our faithful Brethren every where, and is the real ſound and upright Faith, as it hath been received, not only by antient Christians in all Ages of the World, but alſo by the moſt ſound, antient and preſent Friends of Truth, called in ſcorn</hi> Quakers. And in <hi>The Plea of the Innocent,</hi> p. 10. it is expreſly declared, <hi>That</hi> G. K. <hi>is in unity with Truth and faithful Friends, not only in</hi> Old England, <hi>but all places where they are.</hi>
+            </p>
+            <p>The next is a Letttr from <hi>William Richardſon</hi> to G. K. dated the 20
+<pb n="8" facs="tcp:136311:5"/>
+of <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>o mon. 92. from <hi>Weſt-River</hi> in <hi>Maryland,</hi> who chargeth <hi>G. K. That his Spirit strikes at the Light as not being ſufficient, and ſets People a gazing in the Air, and ſome to queſtion whether they have received the Truth or not;</hi> ſaying further, <hi>What is the meaning of theſe choiſes of Faith in Christ without, and Faith within</hi> (like to what <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> 
+               <hi>Jo<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ns</hi> ſaid to G. K. <hi>That it was a needleſs deſtinction,</hi> viz. <hi>Chriſt within and Chriſt without) ſeeing no true Believer in Christ within; dare <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ſ<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>on the Work, Miracles, and holy Doctrine performed in that Body. Note Reader</hi> the fallacy of his words concerning Chriſt without, which are no more than any <hi>Socinian</hi> or <hi>Pelagian</hi> will own; but he hath not a word of owning <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> 
+               <hi>Chriſt without us being neceſſary to our ſalvation;</hi> for it is not enough to own the Doctrine, Miracles and Works of the Man Chriſt without us, for the Doctrine, Miracles and Works of the Prophets and Apoſtles are to be owned, but yet none of them are to be believed in as the Author of our Eternal Salvation, but Chriſt only; and it is apparent by his Letter, that he agreeth with <hi>J. Wilsford</hi> and other his ignorant Brethren, that only the Faith of Chriſt within is the true Faith that purifieth the heart, and that the Faith of Chriſt with<g ref="char:EOLhyphen"/>out is hiſtorical, outward <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> traditional, a made &amp; formed Faith that the Lord <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ever was the Author of; and this is that Faith which he <gap reason="illegible" resp="#PDCC" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> for contending about, whereby he ſhoweth his exceeding <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>; ignorance for G. K. hath preached in the hearing of <hi>William</hi> 
+               <gap reason="illegible" resp="#PDCC" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> ſeveral times the Faith of Chriſt doth without and within, <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> be any made or formed Faith of mens making, but the inward Work and Gift of God, wrought in all who have it, by the Spirit and <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> of God, even that mighty Power that raiſed Chriſt from the <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>. Therefore let who will deſpiſe and reject this faith, we are <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> aſſured we have many faithful Brethren both in <hi>America, England, <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> 
+                  <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>nd, Ireland,</hi> and other parts of the World, who are lovers of the <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Jeſus, and will bleſs God in our behalf, that he hath raiſed us <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> and Witneſſes for his holy Truth in the midſt of ſuch great <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> 
+               <gap reason="illegible" resp="#PDCC" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>diction and Oppoſition.</p>
+            <p>To conclude, it is no ſmall matter of Admiration to us, that ſo many <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> 
+               <hi>Quakers</hi> in <hi>Maryland,</hi> who have all along pretended, <hi>That they <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> free in Conſ<gap reason="illegible" resp="#PDCC" extent="4 letters">
+                     <desc>••••</desc>
+                  </gap> to contribute to the Militia,</hi> yet no<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 
+               <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> with <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Oppoſers here, who have begun to perſecute ſome of <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Fines impriſonment, for aſſerting the <hi>Quakers</hi> Principle againſt <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> uſe of <gap reason="illegible" resp="#PDCC" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> Sword; ſee our printed Appeal.</p>
+            <closer>
+               <signed>George Keith, Thomas <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>.</signed>
+            </closer>
+            <pb facs="tcp:136311:5"/>
+            <pb facs="tcp:136311:6" rendition="simple:additions"/>
+            <pb facs="tcp:136311:6" rendition="simple:additions"/>
+         </div>
+      </body>
+   </text>
+</TEI>
